@@ -57,7 +57,8 @@ h2 {
 
 }
 .slider-item {
-  width: 300px;
+  width: 1400px;
+	height:840px;
   float: left;
 }
 img{
