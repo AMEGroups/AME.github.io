@@ -54,8 +54,8 @@ h2 {
 	        box-sizing: border-box;
 }
 .cp_cssslider {
-	width: 300px;
-	padding-top: 200px; /* 画像の高さ */
+	width: 30px;
+	padding-top: 20px; /* 画像の高さ */
 	position: relative;
 	margin: 2em auto;
 	text-align: center;
